@@ -45,14 +45,14 @@ A full-stack Airbnb clone built with **Next.js**, **React**, **TypeScript**, **T
    Create a .env.local file in the root directory and add:
    
 - DATABASE_URL=MONGODB_URI
-   - NEXTAUTH_SECRET = your-super-secure-random-secret
-   - GITHUB_ID =
-   - GITHUB_SECRET =
+- NEXTAUTH_SECRET = your-super-secure-random-secret
+- GITHUB_ID =
+- GITHUB_SECRET =
    
-   - GOOGLE_CLIENT_ID = 
-   - GOOGLE_CLIENT_SECRET = 
+- GOOGLE_CLIENT_ID = 
+- GOOGLE_CLIENT_SECRET = 
    
-   - NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME = ""
+- NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME = ""
 
 4. **Run database generate**
 
