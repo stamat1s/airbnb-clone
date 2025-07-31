@@ -59,6 +59,6 @@ A full-stack Airbnb clone built with **Next.js**, **React**, **TypeScript**, **T
 
    ```npx prisma db generate```
 
-5 **Start the development server**
+5. **Start the development server**
 
    ```npm run dev```
