@@ -38,7 +38,7 @@ A full-stack Airbnb clone built with **Next.js**, **React**, **TypeScript**, **T
    ```
 2. **Install dependencies**
 
-   ```npm install```
+   ```npm install``` and install all other required libraries
 
 3. **Set environment variables**
 
