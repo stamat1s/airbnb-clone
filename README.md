@@ -1,6 +1,6 @@
 # Airbnb Clone 🏠
 
-A full-stack Airbnb clone built with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **Prisma**, and **PostgreSQL**. Includes user authentication, listing creation, bookings, interactive maps, and more.
+A full-stack Airbnb clone built with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **Prisma**, and **MongoDB**. Includes user authentication, listing creation, bookings, interactive maps, and more.
 
 ---
 
@@ -11,7 +11,7 @@ A full-stack Airbnb clone built with **Next.js**, **React**, **TypeScript**, **T
 - ✅ Book listings with availability checks
 - ✅ Interactive maps with Leaflet
 - ✅ Responsive UI using Tailwind CSS
-- ✅ PostgreSQL database with Prisma ORM
+- ✅ MongoDB database with Prisma ORM
 - ✅ Secure API with error handling and validation
 
 ---
@@ -22,7 +22,7 @@ A full-stack Airbnb clone built with **Next.js**, **React**, **TypeScript**, **T
 - **Styling**: Tailwind CSS
 - **Maps**: Leaflet (OpenStreetMap)
 - **Backend**: Next.js API Routes
-- **Database**: PostgreSQL with Prisma
+- **Database**: MongoDB with Prisma
 - **Authentication**: NextAuth or custom JWT
 - **Deployment**: Vercel / Railway / Render
 
