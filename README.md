@@ -54,10 +54,11 @@ A full-stack Airbnb clone built with **Next.js**, **React**, **TypeScript**, **T
    
 - NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME = ""
 
-4. **Run database generate**
+4. **Run database generate and initialization**
 
    ```npx prisma db generate```
+   ```npx prisma init```
 
-5. **Start the development server**
+6. **Start the development server**
 
    ```npm run dev```
