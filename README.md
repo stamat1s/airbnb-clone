@@ -53,11 +53,13 @@ A full-stack Airbnb clone built with **Next.js**, **React**, **TypeScript**, **T
 - GOOGLE_CLIENT_SECRET = 
    
 - NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME = ""
+- 
 (Also, set ```uploadPreset``` prop in ImageUpload.tsx from Cloudinary CDN.)
 
 4. **Run database generate and initialization**
 
    ```npx prisma db generate```
+   
    ```npx prisma init```
 
 6. **Start the development server**
